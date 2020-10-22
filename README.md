@@ -3,12 +3,12 @@
     <img align="center" width="280" src="signature.png" />
   </a>
   <a href="#">
-    <img align="center" width="510" src="banner.gif" />
+    <img align="center" width="510" src="20200902_182539_05.jpg" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/oaccioly/github-readme-stats">
+  <a href="https://github.com/oaccioly">
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=oaccioly&layout=compact"
