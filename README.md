@@ -24,10 +24,13 @@
 </p>
 
 ## Ola a todos! <img src="Hi.gif" width="30px"></h2>
-- 
+- Gosto de ser chamado pelo meu sobrenome Accioly😄👌
+- Tenho setup🖥️ para diversos desafios
+- Com o tempo eu perco um pouco da minha cara de bravo😡
+
 
 ### Sobre
-
+Eu estudo programaçao desde 2017, comecei com Portugol e logo conheci o curso do gustavo guanabara, fiz todos os mundos, me apaixonei por python e no ano de 2019 assinei o curso Alura +1000 cursos abertos durante 1 ano de assinatura, foi fantastico, aprendi muito sobre python e comecei a entrar no mundo da ciencia de dados, e como consequencia aprendi R, minha base forte é o python, mas hoje me garanto no R. Minha assinatura na Alura vai acabar em Novembro de 2020, ja me antecipei e assinei o LinkedIn learning pela grande quantidade de cursos de R e estatistica, nessa reta final do ano estou exercitando e praticando meu ingles. Ano que vem eu inicio minha faculdade de Estatistica.
 
 
 ### Linguagens e Ferramentas
@@ -73,20 +76,21 @@
 </p>
 
 ### Find me around the web 🌎:
-
+- 📧 Gabriel.oaccioly@gmail.com
 - 💼 Linkedin <a href="https://www.linkedin.com/in/oaccioly/">LinkedIn</a>.
+- 
 
 <h1 class="content-item-title" style="border-color: #00c86f;">
   <a href="https://cursos.alura.com.br/user/Oaccioly/fullCertificate/95021c9facfec1bb030bdfd2dcd5e55d">
                   Certificados Alura
   </a>
             </h1>
-            
-            
-## Horas estudadas *642 horas*
-## Cursos concluidos *75*
-## Exercícios resolvidos *1879*
+                        
+Horas Estudadas: **642 horas** ⏰
 
+Cursos Concluidos: **75** 📜
+
+Exercícios Resolvidos: **1879** 🖊️
 
 
 <h2 class="content-item-title" style="border-color: #00c86f;">Formação: Python</h2>
