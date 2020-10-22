@@ -78,9 +78,15 @@
 
 <h1 class="content-item-title" style="border-color: #00c86f;">
   <a href="https://cursos.alura.com.br/user/Oaccioly/fullCertificate/95021c9facfec1bb030bdfd2dcd5e55d">
-                  Link dos Certificados da Alura
+                  Certificados Alura
   </a>
             </h1>
+            
+            
+## Horas estudadas *642 horas*
+## Cursos concluidos *75*
+## Exercícios resolvidos *1879*
+
 
 
 <h2 class="content-item-title" style="border-color: #00c86f;">Formação: Python</h2>
