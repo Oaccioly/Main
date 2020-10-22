@@ -23,14 +23,14 @@
   </a>
 </p>
 
-## Hi there! <img src="Hi.gif" width="30px"></h2>
+## Ola a todos! <img src="Hi.gif" width="30px"></h2>
+- 
+
+### Sobre
 
 
-### Abstract
 
-
-
-### Languages and Tools
+### Linguagens e Ferramentas
 
 <br/>
 
