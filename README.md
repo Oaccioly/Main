@@ -57,7 +57,7 @@
   >
     <img
       src="https://www.clipartmax.com/png/full/349-3490136_anaconda-icon-anaconda-python-icon.png"
-      alt="AutoHotKey"
+      alt="Anaconda"
       width="40"
       height="40"
     />
