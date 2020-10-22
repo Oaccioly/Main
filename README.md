@@ -82,7 +82,7 @@
 <h2 class="content-item-title" style="border-color: #00c86f;">
                    Formação: Python
   <a href="https://cursos.alura.com.br/user/Oaccioly/fullCertificate/95021c9facfec1bb030bdfd2dcd5e55d" target="_blank">
-            </h2>
+            </h2></a>
 
     Python 3 parte 1: Introdução à nova versão da linguagem (de 29/11/2019 a 30/11/2019) 12hrs
     Python 3 parte 2: Avançando na linguagem (de 30/11/2019 a 30/11/2019) 12hrs
