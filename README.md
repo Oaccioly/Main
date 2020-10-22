@@ -79,9 +79,9 @@
 # Certificados
 
 
-<h2 class="content-item-title" style="border-color: #00c86f;>
+<h2 class="content-item-title" style="border-color: #00c86f;">
   <a href="https://cursos.alura.com.br/user/Oaccioly/fullCertificate/95021c9facfec1bb030bdfd2dcd5e55d">
-                   Formação: Python
+                  Formação: Python
   </a>
             </h2>
 
@@ -119,9 +119,10 @@
     Machine Learning: Classificação por trás dos panos (de 21/09/2020 a 04/10/2020) 10hrs
     Business Intelligence: Introdução à inteligência empresarial (de 09/04/2020 a 17/04/2020) 12hrs 
     
-<h2 class="content-item-title" style="border-color: #00c86f;">
-                   Formação: R para Data Science
-  <a href="https://cursos.alura.com.br/user/Oaccioly/fullCertificate/95021c9facfec1bb030bdfd2dcd5e55d" target="_blank">
+<h2 class="content-item-title" style="border-color: #00c86f;">                  
+  <a href="https://cursos.alura.com.br/user/Oaccioly/fullCertificate/95021c9facfec1bb030bdfd2dcd5e55d">
+                  Formação: R para Data Science
+  </a>
             </h2>
             
     Análise de dados: Introdução com R (de 11/04/2020 a 22/04/2020) 8hrs
@@ -136,20 +137,11 @@
     Estatística I: Entenda seus dados com R (de 11/04/2020 a 11/04/2020) 8hrs
     Estatística II: Aprofundando em hipóteses e correlações (de 17/04/2020 a 17/04/2020) 8hrs
     
-    
-    
-            
-    
-    
-    
-    
-    
-    
-<h2 class="content-item-title" style="border-color: #00c86f;">
-                   Formação: Gerente Ágil - Metodologia Agile | Alura
-  <a href="https://cursos.alura.com.br/user/Oaccioly/fullCertificate/95021c9facfec1bb030bdfd2dcd5e55d" target="_blank">
-            </h2>
-            
+<h2 class="content-item-title" style="border-color: #00c86f;">                  
+  <a href="https://cursos.alura.com.br/user/Oaccioly/fullCertificate/95021c9facfec1bb030bdfd2dcd5e55d">
+                  Gerente Ágil - Metodologia Agile | Alura
+  </a>
+            </h2>               
     
     Scrum: Agilidade em seu projeto (de 04/12/2019 a 13/12/2019) 10hrs
     Scrum parte 1: Gerencie o seu projeto de forma ágil (de 18/01/2020 a 23/01/2020) 5hrs
@@ -157,10 +149,11 @@
     Liderança parte 2: seja o líder que o mercado procura (de 06/12/2019 a 28/02/2020) 12hrs
     Fundamentos de Agilidade: seus primeiros passos para a transformação ágil (de 03/12/2019 a 05/12/2019) 6hrs
 
-<h2 class="content-item-title" style="border-color: #00c86f;">
-                   Formação: Desenvolvimento Pessoal
-  <a href="https://cursos.alura.com.br/user/Oaccioly/fullCertificate/95021c9facfec1bb030bdfd2dcd5e55d" target="_blank">
-            </h2>
+  <h2 class="content-item-title" style="border-color: #00c86f;">                  
+  <a href="https://cursos.alura.com.br/user/Oaccioly/fullCertificate/95021c9facfec1bb030bdfd2dcd5e55d">
+                  Desenvolvimento Pessoal
+  </a>
+            </h2>   
     
     Hábitos: da produtividade às metas pessoais (de 18/03/2020 a 21/03/2020) 8hrs
     Comunicação: Como se expressar bem e ser compreendido (de 21/03/2020 a 30/03/2020) 8hrs
