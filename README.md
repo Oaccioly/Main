@@ -79,9 +79,10 @@
 # Certificados
 
 
-<h2 class="content-item-title" style="border-color: #00c86f;">
+<h2 class="content-item-title" style="border-color: #00c86f;>
+  <a href="https://cursos.alura.com.br/user/Oaccioly/fullCertificate/95021c9facfec1bb030bdfd2dcd5e55d">
                    Formação: Python
-  <a href="https://cursos.alura.com.br/user/Oaccioly/fullCertificate/95021c9facfec1bb030bdfd2dcd5e55d" target="_blank"></a>
+  </a>
             </h2>
 
     Python 3 parte 1: Introdução à nova versão da linguagem (de 29/11/2019 a 30/11/2019) 12hrs
@@ -95,8 +96,9 @@
     Python Brasil: Validação de dados no padrão nacional (de 02/12/2019 a 08/02/2020) 7hrs
     
 <h2 class="content-item-title" style="border-color: #00c86f;">
+  <a href="https://cursos.alura.com.br/user/Oaccioly/fullCertificate/95021c9facfec1bb030bdfd2dcd5e55d">
                   Formação: Python para Data Science
-  <a href="https://cursos.alura.com.br/user/Oaccioly/fullCertificate/95021c9facfec1bb030bdfd2dcd5e55d" target="_blank"></a>
+  </a>
             </h2>
     
     Python para Data Science: Funções, Pacotes e Pandas básico (de 12/02/2020 a 13/02/2020) 10hrs
