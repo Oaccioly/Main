@@ -18,7 +18,7 @@
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=oaccioly&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+      src="https://github-readme-stats.vercel.app/api?username=oaccioly&count_private=true&custom_title=Estatisticas&show_icons=true&hide=issues"
     />
   </a>
 </p>
@@ -33,7 +33,8 @@
 Eu estudo programaçao desde 2017, comecei com Portugol e logo conheci o curso do gustavo guanabara, fiz todos os mundos, me apaixonei por python e no ano de 2019 assinei o curso Alura +1000 cursos abertos durante 1 ano de assinatura, foi fantastico, aprendi muito sobre python e comecei a entrar no mundo da ciencia de dados, e como consequencia aprendi R, minha base forte é o python, mas hoje me garanto no R. Minha assinatura na Alura vai acabar em Novembro de 2020, ja me antecipei e assinei o LinkedIn learning pela grande quantidade de cursos de R e estatistica, nessa reta final do ano estou exercitando e praticando meu ingles. Ano que vem eu inicio minha faculdade de Estatistica.
 
 ### Projetos
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oaccioly&repo=hangman)](https://github.com/oaccioly/hangman)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oaccioly&repo=hangman&theme=tokyonight)](https://github.com/oaccioly/hangman)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oaccioly&repo=boteverve&theme=tokyonight)](https://github.com/oaccioly/boteverve)
 
 ### Linguagens e Ferramentas
 
@@ -79,7 +80,7 @@ Eu estudo programaçao desde 2017, comecei com Portugol e logo conheci o curso d
 
 ### Como me achar 🌎:
 - 💼 Linkedin: <a href="https://www.linkedin.com/in/oaccioly/">Linkedin.com/in/oAccioly/</a>.
-- 📧 Gabriel.oaccioly@gmail.com
+- 📧 Gmail: Gabriel.oaccioly@gmail.com
 
 <h1 class="content-item-title" style="border-color: #00c86f;">
   <a href="https://cursos.alura.com.br/user/Oaccioly/fullCertificate/95021c9facfec1bb030bdfd2dcd5e55d">
