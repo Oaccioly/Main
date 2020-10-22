@@ -95,9 +95,8 @@
     Python Brasil: Validação de dados no padrão nacional (de 02/12/2019 a 08/02/2020) 7hrs
     
 <h2 class="content-item-title" style="border-color: #00c86f;">
+                  Formação: Python para Data Science
   <a href="https://cursos.alura.com.br/user/Oaccioly/fullCertificate/95021c9facfec1bb030bdfd2dcd5e55d" target="_blank">
-  Formação: Python para Data Science
-  
             </h2>
     
     Python para Data Science: Funções, Pacotes e Pandas básico (de 12/02/2020 a 13/02/2020) 10hrs
@@ -120,6 +119,7 @@
     
 <h2 class="content-item-title" style="border-color: #00c86f;">
                    Formação: R para Data Science
+  <a href="https://cursos.alura.com.br/user/Oaccioly/fullCertificate/95021c9facfec1bb030bdfd2dcd5e55d" target="_blank">
             </h2>
             
     Análise de dados: Introdução com R (de 11/04/2020 a 22/04/2020) 8hrs
@@ -145,6 +145,7 @@
     
 <h2 class="content-item-title" style="border-color: #00c86f;">
                    Formação: Gerente Ágil - Metodologia Agile | Alura
+  <a href="https://cursos.alura.com.br/user/Oaccioly/fullCertificate/95021c9facfec1bb030bdfd2dcd5e55d" target="_blank">
             </h2>
             
     
@@ -153,8 +154,10 @@
     Liderança parte 1: Seja líder no novo mercado (de 05/12/2019 a 07/12/2019) 8hrs
     Liderança parte 2: seja o líder que o mercado procura (de 06/12/2019 a 28/02/2020) 12hrs
     Fundamentos de Agilidade: seus primeiros passos para a transformação ágil (de 03/12/2019 a 05/12/2019) 6hrs
+
 <h2 class="content-item-title" style="border-color: #00c86f;">
                    Formação: Desenvolvimento Pessoal
+  <a href="https://cursos.alura.com.br/user/Oaccioly/fullCertificate/95021c9facfec1bb030bdfd2dcd5e55d" target="_blank">
             </h2>
     
     Hábitos: da produtividade às metas pessoais (de 18/03/2020 a 21/03/2020) 8hrs
