@@ -81,6 +81,7 @@
 
 <h2 class="content-item-title" style="border-color: #00c86f;">
                    Formação: Python
+  <a href="https://www.python.org/" target="_blank">
             </h2>
 
     Python 3 parte 1: Introdução à nova versão da linguagem (de 29/11/2019 a 30/11/2019) 12hrs
