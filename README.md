@@ -76,13 +76,17 @@
 
 - 💼 Linkedin <a href="https://www.linkedin.com/in/oaccioly/">LinkedIn</a>.
 
-# Certificados
+<h1 class="content-item-title" style="border-color: #00c86f;">
+  <a href="https://cursos.alura.com.br/user/Oaccioly/fullCertificate/95021c9facfec1bb030bdfd2dcd5e55d">
+                  Link dos Certificados da Alura
+  </a>
+            </h1>
 
 
 <h2 class="content-item-title" style="border-color: #00c86f;">
-  <a href="https://cursos.alura.com.br/user/Oaccioly/fullCertificate/95021c9facfec1bb030bdfd2dcd5e55d">
+  
                   Formação: Python
-  </a>
+  
             </h2>
 
     Python 3 parte 1: Introdução à nova versão da linguagem (de 29/11/2019 a 30/11/2019) 12hrs
@@ -96,9 +100,9 @@
     Python Brasil: Validação de dados no padrão nacional (de 02/12/2019 a 08/02/2020) 7hrs
     
 <h2 class="content-item-title" style="border-color: #00c86f;">
-  <a href="https://cursos.alura.com.br/user/Oaccioly/fullCertificate/95021c9facfec1bb030bdfd2dcd5e55d">
+ 
                   Formação: Python para Data Science
-  </a>
+  
             </h2>
     
     Python para Data Science: Funções, Pacotes e Pandas básico (de 12/02/2020 a 13/02/2020) 10hrs
@@ -120,9 +124,9 @@
     Business Intelligence: Introdução à inteligência empresarial (de 09/04/2020 a 17/04/2020) 12hrs 
     
 <h2 class="content-item-title" style="border-color: #00c86f;">                  
-  <a href="https://cursos.alura.com.br/user/Oaccioly/fullCertificate/95021c9facfec1bb030bdfd2dcd5e55d">
+  
                   Formação: R para Data Science
-  </a>
+
             </h2>
             
     Análise de dados: Introdução com R (de 11/04/2020 a 22/04/2020) 8hrs
@@ -138,9 +142,9 @@
     Estatística II: Aprofundando em hipóteses e correlações (de 17/04/2020 a 17/04/2020) 8hrs
     
 <h2 class="content-item-title" style="border-color: #00c86f;">                  
-  <a href="https://cursos.alura.com.br/user/Oaccioly/fullCertificate/95021c9facfec1bb030bdfd2dcd5e55d">
+  
                   Gerente Ágil - Metodologia Agile | Alura
-  </a>
+  
             </h2>               
     
     Scrum: Agilidade em seu projeto (de 04/12/2019 a 13/12/2019) 10hrs
@@ -150,9 +154,9 @@
     Fundamentos de Agilidade: seus primeiros passos para a transformação ágil (de 03/12/2019 a 05/12/2019) 6hrs
 
   <h2 class="content-item-title" style="border-color: #00c86f;">                  
-  <a href="https://cursos.alura.com.br/user/Oaccioly/fullCertificate/95021c9facfec1bb030bdfd2dcd5e55d">
+  
                   Desenvolvimento Pessoal
-  </a>
+  
             </h2>   
     
     Hábitos: da produtividade às metas pessoais (de 18/03/2020 a 21/03/2020) 8hrs
