@@ -11,14 +11,14 @@
   <a href="https://github.com/oaccioly">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=oaccioly&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=oaccioly&layout=compact&theme=tokyonight&custom_title=Minhas%20Linguagens%20Mais%20Usadas"
     />
   </a>
   <a href="https://github.com/oaccioly">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=oaccioly&count_private=true&custom_title=Estatisticas&show_icons=true&hide=issues"
+      src="https://github-readme-stats.vercel.app/api?username=oaccioly&count_private=true&custom_title=Estatisticas%20De%20Atividade&show_icons=true&hide=issues&theme=tokyonight"
     />
   </a>
 </p>
@@ -32,9 +32,12 @@
 ### Sobre
 Eu estudo programaçao desde 2017, comecei com Portugol e logo conheci o curso do gustavo guanabara, fiz todos os mundos, me apaixonei por python e no ano de 2019 assinei o curso Alura +1000 cursos abertos durante 1 ano de assinatura, foi fantastico, aprendi muito sobre python e comecei a entrar no mundo da ciencia de dados, e como consequencia aprendi R, minha base forte é o python, mas hoje me garanto no R. Minha assinatura na Alura vai acabar em Novembro de 2020, ja me antecipei e assinei o LinkedIn learning pela grande quantidade de cursos de R e estatistica, nessa reta final do ano estou exercitando e praticando meu ingles. Ano que vem eu inicio minha faculdade de Estatistica.
 
-### Projetos
+### Projetos em Python
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oaccioly&repo=hangman&theme=tokyonight)](https://github.com/oaccioly/hangman)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oaccioly&repo=boteverve&theme=tokyonight)](https://github.com/oaccioly/boteverve)
+
+### Projetos em R
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oaccioly&repo=R-Machine-Learning&theme=tokyonight)](https://github.com/oaccioly/R-Machine-Learning)
 
 ### Linguagens e Ferramentas
 
